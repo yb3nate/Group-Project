@@ -1,0 +1,8 @@
+StudyBuddy is a simple, student-friendly app built to help you find the right study partner based on shared courses, study habits, and availability. It’s designed to make studying a little easier by matching you with others who have similar schedules and learning styles.
+
+To get started, just run the main.py file in your terminal or IDE. Follow the prompts to create your account, fill in your profile, and explore the features.
+
+Once your profile is set up, StudyBuddy will automatically suggest potential study partners. Matches are ranked by compatibility, so the higher the match score, the better the fit. You can also view other profiles and edit your own at any time to keep your information up to date.
+
+For more details on how everything works, please check out the full README.md file included in the project.
+
